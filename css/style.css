@@ -2,6 +2,12 @@
     font-family: "yekan";
     src: url("../fonts/yekan.ttf");
 }
+
+@font-face {
+    font-family: "sina";
+    src: url("../fonts/sina.ttf");
+}
+
 .logo{
     vertical-align: middle;
     margin: auto;
@@ -13,7 +19,7 @@
 
 body{
     background-color:rgb(30,115,237);
-    font-family: "yekan";
+    font-family: "sina";
     margin: 0; 
 }
 
